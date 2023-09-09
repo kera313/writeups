@@ -15,6 +15,8 @@
 ## Overview
 Answer list as well as the walkthrough for each question.
 
+Category: Network Forensics
+
 [Link to challenge page](https://cyberdefenders.org/blueteam-ctf-challenges/37#nav-overview)
 
 ## Answer List
