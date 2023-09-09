@@ -1,11 +1,11 @@
-# WireDive (Difficulty: Medium)
+# WireDive
 
-- [WireDive (Difficulty: Medium)](#wiredive-difficulty-medium)
+- [WireDive](#wiredive)
   - [Overview](#overview)
   - [Answer List](#answer-list)
   - [Walkthrough](#walkthrough)
     - [DHCP](#dhcp)
-  - [DNS](#dns)
+    - [DNS](#dns)
     - [SMB](#smb)
     - [Shell](#shell)
     - [Network](#network)
@@ -167,7 +167,7 @@ Click on the Ethernet header and note the MAC address at *Source*.
 
 <br>
 
-## DNS
+### DNS
 **Q4: What is the response for the lookup for flag.fruitinc.xyz?**
 > ACOOLDNSFLAG
 
