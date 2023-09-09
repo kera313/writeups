@@ -3,18 +3,19 @@
 - [WireDive (Difficulty: Medium)](#wiredive-difficulty-medium)
   - [Overview](#overview)
   - [Answer List](#answer-list)
-  - [DHCP](#dhcp)
+  - [Walkthrough](#walkthrough)
+    - [DHCP](#dhcp)
   - [DNS](#dns)
-  - [SMB](#smb)
-  - [Shell](#shell)
-  - [Network](#network)
-  - [HTTPS](#https)
+    - [SMB](#smb)
+    - [Shell](#shell)
+    - [Network](#network)
+    - [HTTPS](#https)
   - [References](#references)
 
 ## Overview
 Answer list as well as the walkthrough for each question.
 
-[Link to challenge page.](https://cyberdefenders.org/blueteam-ctf-challenges/37#nav-overview)
+[Link to challenge page](https://cyberdefenders.org/blueteam-ctf-challenges/37#nav-overview)
 
 ## Answer List
 **Q1: What IP address is requested by the client?**
@@ -124,7 +125,9 @@ Answer list as well as the walkthrough for each question.
 
 <br>
 
-## DHCP
+## Walkthrough
+
+### DHCP
 **Q1: What IP address is requested by the client?**
 > 192.168.2.244
 
@@ -195,7 +198,7 @@ nslookup 192.203.230.10
 
 <br>
 
-## SMB
+### SMB
 **Q6: What is the path of the file that is opened?**
 > HelloWorld\TradeSecrets.txt
 
@@ -258,7 +261,7 @@ In the *Find* box, search for the term **flag**.
 
 <br>
 
-## Shell
+### Shell
 **Q10: What port is the shell listening on?**
 > 4444
 
@@ -340,7 +343,7 @@ Follow TCP stream 6 to see the output of /etc/passwd and find 31 entries (full l
 
 <br>
 
-## Network
+### Network
 **Q17: What is the IPv6 NTP server IP?**
 > 2003:51:6012:110::dcf7:123
 
@@ -490,7 +493,7 @@ Search for *radius server blubb* to get the radius server IP.
 
 <br>
 
-## HTTPS
+### HTTPS
 **Q30: What has been added to web interaction with web01.fruitinc.xyz?**
 > y2*Lg4cHe@Ps
 
