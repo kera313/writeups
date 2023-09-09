@@ -9,6 +9,8 @@
 ## Overview
 Answer list as well as the walkthrough for each question.
 
+Category: Endpoint Forensics
+
 [Link to challenge page](https://cyberdefenders.org/blueteam-ctf-challenges/66#nav-overview)
 
 The main tools used are:
